@@ -10,7 +10,7 @@ footer .start{
     align-items: center;
     justify-content: space-around;
     position: absolute;
-    background-color: #92574d;
+    background-color: #dab214;
     padding: 30px 25px;
     border-radius: 15px;
     width: 70%;
@@ -25,7 +25,7 @@ footer .start p{
 
 footer .start button{
     background: transparent;
-    background-color: rgb(142, 89, 80);
+    background-color: #dab214;
     border: 1px solid #000;
     cursor: pointer;
     padding: 8px 20px;
@@ -36,14 +36,14 @@ footer .start button{
 }
 
 footer .start button:hover{
-    background-color: #814c43;
+    background-color: #aa8c15;
     border-color: #000;
     color: #000;
     text-decoration: none;
 }
 
 footer .start button:active{
-    background-color: #92574d;
+    background-color: #aa8c15;
     border-color: #000;
     color: #000;
     text-decoration: none;
@@ -79,7 +79,7 @@ footer .col .about-col{
 }
 
 footer .col .about-col h3{
-    color: #92574d;
+    color: #aa8c15;
     margin-bottom: 20px;
     font-size: xx-large;
 }
@@ -109,7 +109,7 @@ footer .col .links-col a{
 }
 
 footer .col .links-col a:hover{
-    color: #92574d;
+    color: #aa8c15;
 }
 
 @media screen and (max-width: 1100px) {
@@ -173,26 +173,26 @@ footer .col .links-col a:hover{
 }
 
 .copyright a {
-    color: #92574d;
+    color: #aa8c15;
     text-decoration: none;
 }
 
 .copyright a:visited {
-    color: #92574d;
+    color: #aa8c15;
     text-decoration: none;
 }
 
 .copyright a:active {
-    color: #92574d;
+    color: #aa8c15;
     text-decoration: none;
 }
 
 .copyright a:hover {
-    color: #92574d;
+    color: #aa8c15;
     text-decoration: none;
 }
 
 .highlighted {
-    color: #92574d;
+    color: #aa8c15;
     font-weight: bold;
 }

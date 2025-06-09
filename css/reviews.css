@@ -1,5 +1,5 @@
 .reviews-main h1 {
-    color: #92574d;
+    color: #aa8c15;
     text-align: left;
     padding: 1rem;
     font-size: xx-large;
@@ -59,7 +59,7 @@
     display: flex;
     justify-content: center;
     padding: 0.5rem;
-    background-color: #92574d;
+    background-color: #aa8c15;
 }
 
 .slider-nav button {

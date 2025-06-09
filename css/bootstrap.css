@@ -4177,7 +4177,7 @@ fieldset:disabled .btn {
 
 .dropdown-item.active,
 .dropdown-item:active {
-    color: #92574d;
+    color: #aa8c15;
     text-decoration: none;
     background-color: var(--bs-dropdown-link-active-bg)
 }
@@ -4565,7 +4565,7 @@ fieldset:disabled .btn {
 
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link.show {
-    color: #92574d
+    color: #aa8c15
 }
 
 .navbar-nav .dropdown-menu {
